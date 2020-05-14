@@ -1,3 +1,0 @@
-name:ddd
-tel:12313
-sex:1

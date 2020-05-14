@@ -1,3 +1,0 @@
-name:abc
-tel:222
-sex:2
